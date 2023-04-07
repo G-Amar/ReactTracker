@@ -2,6 +2,14 @@
 
 This is an SPA created with React, JSON server, and React-router-dom
 
+Through developing this React project, I gained valuable experience in: 
+ - creating and using functional components, 
+ - managing React state (dealing with state hooks and props), 
+ - and making requests to access and modify data a JSON server (asynchronously). 
+
+These skills will be helpful for building more complex applications in the future.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
