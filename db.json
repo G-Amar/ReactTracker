@@ -21,7 +21,7 @@
     {
       "text": "Birthday Party",
       "day": "Saturday, May 13",
-      "reminder": false,
+      "reminder": true,
       "id": 5
     }
   ]
